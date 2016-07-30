@@ -1,0 +1,621 @@
+# depslib dependency file v1.0
+1398093644 source:d:\alvin\documents\supinfo\projets\svn\code\server\supsearchback\main.cpp
+	<iostream>
+	"include/microhttpd.h"
+
+1398093644 icrohttpd.h"
+
+1322342596 d:\alvin\documents\supinfo\projets\svn\code\server\supsearchback\include\microhttpd.h
+	<unistd.h>
+	<stdarg.h>
+	<stdint.h>
+	<ws2tcpip.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/socket.h>
+
+1322342596 t.h>
+
+1398273856 source:/run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<config4cpp/Configuration.h>
+	<microhttpd.h>
+	"include/WebModel.h"
+	<sys/types.h>
+	<unistd.h>
+
+1322338996 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/include/microhttpd.h
+	<unistd.h>
+	<stdarg.h>
+	<stdint.h>
+	<ws2tcpip.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/socket.h>
+
+1401796258 source:/home/alvin/SupSearchBack/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<config4cpp/Configuration.h>
+	<microhttpd.h>
+	"include/WebModelUnified.h"
+	"include/DbController.h"
+	"main.h"
+	<sys/types.h>
+	<unistd.h>
+
+1322338996 /home/alvin/SupSearchBack/include/microhttpd.h
+	<unistd.h>
+	<stdarg.h>
+	<stdint.h>
+	<ws2tcpip.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/socket.h>
+
+1328203338 /home/alvin/SupSearchBack/libs/include/config4cpp/Configuration.h
+	<config4cpp/namespace.h>
+	<config4cpp/ConfigurationException.h>
+	<config4cpp/StringBuffer.h>
+	<config4cpp/StringVector.h>
+	<stddef.h>
+
+1296498363 /home/alvin/SupSearchBack/libs/include/config4cpp/namespace.h
+
+1296512970 /home/alvin/SupSearchBack/libs/include/config4cpp/ConfigurationException.h
+	<config4cpp/namespace.h>
+	<string.h>
+
+1298127855 /home/alvin/SupSearchBack/libs/include/config4cpp/StringBuffer.h
+	<config4cpp/namespace.h>
+	<assert.h>
+
+1298127689 /home/alvin/SupSearchBack/libs/include/config4cpp/StringVector.h
+	<config4cpp/namespace.h>
+	<config4cpp/StringBuffer.h>
+
+1322338996 /home/alvin/SupSearchBack/libs/include/microhttpd.h
+	<unistd.h>
+	<stdarg.h>
+	<stdint.h>
+	<ws2tcpip.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/socket.h>
+
+1401698020 source:/home/alvin/SupSearchBack/src/WebModel.cpp
+	"../include/WebModel.h"
+	"../include/JsonWebClasses.h"
+	"../include/JsonWebModel.h"
+
+1401697740 /home/alvin/SupSearchBack/include/WebModel.h
+	"DbController.h"
+	"../include/JsonWebClasses.h"
+
+1398101991 source:/home/alvin/SupSearchBack/src/JsonWebClasses.cpp
+	"../include/JsonWebClasses.h"
+
+1401695710 /home/alvin/SupSearchBack/include/JsonWebClasses.h
+	<string>
+
+1352797655 /home/alvin/SupSearchBack/libs/include/rapidjson/prettywriter.h
+	"writer.h"
+
+1352861920 /home/alvin/SupSearchBack/libs/include/rapidjson/writer.h
+	"rapidjson.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	<cstdio>
+	<new>
+
+1353068144 /home/alvin/SupSearchBack/libs/include/rapidjson/rapidjson.h
+	<cstdlib>
+	<cstring>
+	<inttypes.h>
+	<cassert>
+
+1330409687 /home/alvin/SupSearchBack/libs/include/rapidjson/internal/stack.h
+
+1330404847 /home/alvin/SupSearchBack/libs/include/rapidjson/internal/strfunc.h
+
+1398241754 source:/home/alvin/SupSearchBack/src/jsonlib/JSON.cpp
+	"../../include/jsonlib/JSON.h"
+
+1383446143 /home/alvin/SupSearchBack/include/jsonlib/JSON.h
+	<vector>
+	<string>
+	<map>
+	<cstring>
+	<cstdlib>
+	<wctype.h>
+	<wchar.h>
+	"JSONValue.h"
+
+1383446143 /home/alvin/SupSearchBack/include/jsonlib/JSONValue.h
+	<vector>
+	<string>
+	"JSON.h"
+
+1398241763 source:/home/alvin/SupSearchBack/src/jsonlib/JSONValue.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+	<math.h>
+	"../../include/jsonlib/JSONValue.h"
+
+1401697247 source:/home/alvin/SupSearchBack/src/JsonWebModel.cpp
+	"../include/JsonWebModel.h"
+	"../include/jsonlib/JSON.h"
+	<iostream>
+
+1401205757 /home/alvin/SupSearchBack/include/JsonWebModel.h
+	"../include/JsonWebClasses.h"
+	<string.h>
+
+1328203338 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/libs/include/config4cpp/Configuration.h
+	<config4cpp/namespace.h>
+	<config4cpp/ConfigurationException.h>
+	<config4cpp/StringBuffer.h>
+	<config4cpp/StringVector.h>
+	<stddef.h>
+
+1296498363 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/libs/include/config4cpp/namespace.h
+
+1296512970 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/libs/include/config4cpp/ConfigurationException.h
+	<config4cpp/namespace.h>
+	<string.h>
+
+1298127855 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/libs/include/config4cpp/StringBuffer.h
+	<config4cpp/namespace.h>
+	<assert.h>
+
+1298127689 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/libs/include/config4cpp/StringVector.h
+	<config4cpp/namespace.h>
+	<config4cpp/StringBuffer.h>
+
+1322338996 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/libs/include/microhttpd.h
+	<unistd.h>
+	<stdarg.h>
+	<stdint.h>
+	<ws2tcpip.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/socket.h>
+
+1398099394 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/include/WebModel.h
+
+1398241754 source:/run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/src/jsonlib/JSON.cpp
+	"../../include/jsonlib/JSON.h"
+
+1383446143 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/include/jsonlib/JSON.h
+	<vector>
+	<string>
+	<map>
+	<cstring>
+	<cstdlib>
+	<wctype.h>
+	<wchar.h>
+	"JSONValue.h"
+
+1383446143 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/include/jsonlib/JSONValue.h
+	<vector>
+	<string>
+	"JSON.h"
+
+1398241763 source:/run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/src/jsonlib/JSONValue.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+	<math.h>
+	"../../include/jsonlib/JSONValue.h"
+
+1398101991 source:/run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/src/JsonWebClasses.cpp
+	"../include/JsonWebClasses.h"
+
+1398102294 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/include/JsonWebClasses.h
+
+1398249817 source:/run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/src/JsonWebModel.cpp
+	"../include/JsonWebModel.h"
+	"../include/jsonlib/JSON.h"
+	<iostream>
+
+1398249808 /run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/include/JsonWebModel.h
+	"../include/JsonWebClasses.h"
+	<string.h>
+
+1398249825 source:/run/media/alvin/Données/Alvin/Documents/Supinfo/Projets/SVN/Code/Server/SupSearchBack/src/WebModel.cpp
+	"../include/WebModel.h"
+	"../include/JsonWebClasses.h"
+	"../include/JsonWebModel.h"
+
+1401733090 /home/alvin/SupSearchBack/include/DbController.h
+	"JsonWebClasses.h"
+	<config4cpp/Configuration.h>
+	<iostream>
+	<mysql++.h>
+
+1401797735 source:/home/alvin/SupSearchBack/src/DbController.cpp
+	"../include/DbController.h"
+
+1399311416 /home/alvin/SupSearchBack/include/StaticStorage.h
+
+1399311321 source:/home/alvin/SupSearchBack/src/StaticStorage.cpp
+	"../include/StaticStorage.h"
+
+1375539485 /usr/include/mysql++/mysql++.h
+	"connection.h"
+	"cpool.h"
+	"query.h"
+	"scopedconnection.h"
+	"sql_types.h"
+	"transaction.h"
+
+1375539485 /usr/include/mysql++/connection.h
+	"common.h"
+	"noexceptions.h"
+	"options.h"
+	<string>
+	"tcp_connection.h"
+	"uds_connection.h"
+	"wnp_connection.h"
+
+1375539485 /usr/include/mysql++/common.h
+	<winsock.h>
+	"config.h"
+	<mysql/mysql_version.h>
+	<mysql_version.h>
+	<mysql/mysql.h>
+	<mysql.h>
+
+1375539485 /usr/include/mysql++/noexceptions.h
+	"common.h"
+
+1375539485 /usr/include/mysql++/options.h
+	"common.h"
+	<deque>
+	<string>
+
+1375539485 /usr/include/mysql++/tcp_connection.h
+	"connection.h"
+
+1375539485 /usr/include/mysql++/uds_connection.h
+	"connection.h"
+
+1375539485 /usr/include/mysql++/wnp_connection.h
+	"connection.h"
+
+1375539485 /usr/include/mysql++/cpool.h
+	"beemutex.h"
+	<list>
+	<assert.h>
+	<time.h>
+
+1375539485 /usr/include/mysql++/beemutex.h
+	"exceptions.h"
+
+1375539485 /usr/include/mysql++/exceptions.h
+	"options.h"
+	<exception>
+	<string>
+	<sstream>
+	<typeinfo>
+
+1375539485 /usr/include/mysql++/query.h
+	"common.h"
+	"exceptions.h"
+	"noexceptions.h"
+	"qparms.h"
+	"querydef.h"
+	"result.h"
+	"row.h"
+	"sqlstream.h"
+	"stadapter.h"
+	"transaction.h"
+	<deque>
+	<iomanip>
+	<list>
+	<map>
+	<set>
+	<vector>
+	<ext/slist>
+	<slist>
+	"insertpolicy.h"
+
+1375539485 /usr/include/mysql++/qparms.h
+	"stadapter.h"
+	<vector>
+
+1375539485 /usr/include/mysql++/stadapter.h
+	"common.h"
+	"datetime.h"
+	"null.h"
+	"sql_buffer.h"
+	"tiny_int.h"
+	<stdexcept>
+	<string>
+
+1375539485 /usr/include/mysql++/datetime.h
+	"common.h"
+	"comparable.h"
+	<string>
+	<iostream>
+
+1375539485 /usr/include/mysql++/comparable.h
+
+1375539485 /usr/include/mysql++/null.h
+	"exceptions.h"
+	<iostream>
+	<string>
+
+1375539485 /usr/include/mysql++/sql_buffer.h
+	"refcounted.h"
+	"type_info.h"
+	<string>
+
+1375539485 /usr/include/mysql++/refcounted.h
+	<memory>
+
+1375539485 /usr/include/mysql++/type_info.h
+	"common.h"
+	"exceptions.h"
+	<map>
+	<sstream>
+	<typeinfo>
+
+1375539485 /usr/include/mysql++/tiny_int.h
+	"common.h"
+	<ostream>
+
+1375539485 /usr/include/mysql++/querydef.h
+
+1375539485 /usr/include/mysql++/result.h
+	"common.h"
+	"exceptions.h"
+	"field.h"
+	"field_names.h"
+	"field_types.h"
+	"noexceptions.h"
+	"refcounted.h"
+	"row.h"
+
+1375539485 /usr/include/mysql++/field.h
+	"common.h"
+	"type_info.h"
+	<vector>
+
+1375539485 /usr/include/mysql++/field_names.h
+	<string>
+	<vector>
+
+1375539485 /usr/include/mysql++/field_types.h
+	"type_info.h"
+	<vector>
+
+1375539485 /usr/include/mysql++/row.h
+	"common.h"
+	"mystring.h"
+	"noexceptions.h"
+	"refcounted.h"
+	"vallist.h"
+	<vector>
+	<string>
+
+1375539485 /usr/include/mysql++/mystring.h
+	"common.h"
+	"datetime.h"
+	"exceptions.h"
+	"null.h"
+	"sql_buffer.h"
+	<string>
+	<sstream>
+	<limits>
+	<stdlib.h>
+	<string.h>
+
+1375539485 /usr/include/mysql++/vallist.h
+	"manip.h"
+	<string>
+	<vector>
+
+1375539485 /usr/include/mysql++/manip.h
+	"common.h"
+	"myset.h"
+	"stadapter.h"
+	<iostream>
+
+1375539485 /usr/include/mysql++/myset.h
+	"common.h"
+	"mystring.h"
+	"stream2string.h"
+	<iostream>
+	<set>
+
+1375539485 /usr/include/mysql++/stream2string.h
+	<sstream>
+	<string>
+
+1375539485 /usr/include/mysql++/sqlstream.h
+	"common.h"
+	<sstream>
+
+1375539485 /usr/include/mysql++/transaction.h
+	"common.h"
+
+1375539485 /usr/include/mysql++/insertpolicy.h
+
+1375539485 /usr/include/mysql++/scopedconnection.h
+	"common.h"
+
+1375539485 /usr/include/mysql++/sql_types.h
+	"common.h"
+	"tiny_int.h"
+	<string>
+	<stdint.h>
+
+1397749899 /usr/include/mysql/mysql_version.h
+	<custom_conf.h>
+
+1397559755 /usr/include/mysql/mysql.h
+	<standards.h>
+	<sys/types.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1397749865 /usr/include/mysql/mysql_com.h
+
+1397559755 /usr/include/mysql/mysql_time.h
+
+1397559755 /usr/include/mysql/my_list.h
+
+1397559750 /usr/include/mysql/typelib.h
+	"my_alloc.h"
+
+1397559750 /usr/include/mysql/my_alloc.h
+
+1401796249 /home/alvin/SupSearchBack/include/WebModelUnified.h
+	"../include/jsonlib/JSON.h"
+	"../include/JsonWebClasses.h"
+	<config4cpp/Configuration.h>
+	<iostream>
+	<mysql++.h>
+	<boost/algorithm/string/split.hpp>
+	<boost/algorithm/string/classification.hpp>
+
+1401797725 source:/home/alvin/SupSearchBack/src/WebModelUnified.cpp
+	"../include/WebModelUnified.h"
+
+1401732693 /home/alvin/SupSearchBack/main.h
+
+1398241754 source:/home/supinfo/supsearch/Server/SupSearchBack/src/jsonlib/JSON.cpp
+	"../../include/jsonlib/JSON.h"
+
+1383446143 /home/supinfo/supsearch/Server/SupSearchBack/include/jsonlib/JSON.h
+	<vector>
+	<string>
+	<map>
+	<cstring>
+	<cstdlib>
+	<wctype.h>
+	<wchar.h>
+	"JSONValue.h"
+
+1383446143 /home/supinfo/supsearch/Server/SupSearchBack/include/jsonlib/JSONValue.h
+	<vector>
+	<string>
+	"JSON.h"
+
+1398241763 source:/home/supinfo/supsearch/Server/SupSearchBack/src/jsonlib/JSONValue.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+	<math.h>
+	"../../include/jsonlib/JSONValue.h"
+
+1398101991 source:/home/supinfo/supsearch/Server/SupSearchBack/src/JsonWebClasses.cpp
+	"../include/JsonWebClasses.h"
+
+1401802114 /home/supinfo/supsearch/Server/SupSearchBack/include/JsonWebClasses.h
+	<string>
+
+1402351696 source:/home/supinfo/supsearch/Server/SupSearchBack/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<microhttpd.h>
+	<config4cpp/Configuration.h>
+	"include/WebModelUnified.h"
+	"include/DbController.h"
+	"main.h"
+	<sys/types.h>
+	<unistd.h>
+
+1328203338 /home/supinfo/supsearch/Server/SupSearchBack/libs/include/config4cpp/Configuration.h
+	<config4cpp/namespace.h>
+	<config4cpp/ConfigurationException.h>
+	<config4cpp/StringBuffer.h>
+	<config4cpp/StringVector.h>
+	<stddef.h>
+
+1296498363 /home/supinfo/supsearch/Server/SupSearchBack/libs/include/config4cpp/namespace.h
+
+1296512970 /home/supinfo/supsearch/Server/SupSearchBack/libs/include/config4cpp/ConfigurationException.h
+	<config4cpp/namespace.h>
+	<string.h>
+
+1298127855 /home/supinfo/supsearch/Server/SupSearchBack/libs/include/config4cpp/StringBuffer.h
+	<config4cpp/namespace.h>
+	<assert.h>
+
+1298127689 /home/supinfo/supsearch/Server/SupSearchBack/libs/include/config4cpp/StringVector.h
+	<config4cpp/namespace.h>
+	<config4cpp/StringBuffer.h>
+
+1322338996 /home/supinfo/supsearch/Server/SupSearchBack/libs/include/microhttpd.h
+	<unistd.h>
+	<stdarg.h>
+	<stdint.h>
+	<ws2tcpip.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/socket.h>
+
+1401802114 /home/supinfo/supsearch/Server/SupSearchBack/include/WebModelUnified.h
+	"../include/jsonlib/JSON.h"
+	"../include/JsonWebClasses.h"
+	<config4cpp/Configuration.h>
+	<iostream>
+	<mysql++.h>
+	<boost/algorithm/string/split.hpp>
+	<boost/algorithm/string/classification.hpp>
+
+1401802114 /home/supinfo/supsearch/Server/SupSearchBack/include/DbController.h
+	"JsonWebClasses.h"
+	<config4cpp/Configuration.h>
+	<iostream>
+	<mysql++.h>
+
+1401802114 /home/supinfo/supsearch/Server/SupSearchBack/main.h
+
+1402006433 source:/home/supinfo/supsearch/Server/SupSearchBack/src/DbController.cpp
+	"../include/DbController.h"
+
+1401802114 source:/home/supinfo/supsearch/Server/SupSearchBack/src/JsonWebModel.cpp
+	"../include/JsonWebModel.h"
+	"../include/jsonlib/JSON.h"
+	<iostream>
+
+1401802114 /home/supinfo/supsearch/Server/SupSearchBack/include/JsonWebModel.h
+	"../include/JsonWebClasses.h"
+	<string.h>
+
+1401802114 source:/home/supinfo/supsearch/Server/SupSearchBack/src/WebModel.cpp
+	"../include/WebModel.h"
+	"../include/JsonWebClasses.h"
+	"../include/JsonWebModel.h"
+
+1401802114 /home/supinfo/supsearch/Server/SupSearchBack/include/WebModel.h
+	"DbController.h"
+	"../include/JsonWebClasses.h"
+
+1402006520 source:/home/supinfo/supsearch/Server/SupSearchBack/src/WebModelUnified.cpp
+	"../include/WebModelUnified.h"
+
